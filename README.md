@@ -1,4 +1,9 @@
-# Matrix Manipulation with NumPy
+## 👋 About
+
+I'm Carlos, currently learning Python and data-related tools.  
+This repository collects my hands-on practice using NumPy for data manipulation and array operations.
+
+## 🧩 Matrix Manipulation with NumPy
 
 This repository contains small practice exercises using NumPy to perform common matrix operations such as filtering, aggregation, and saving to file.
 
