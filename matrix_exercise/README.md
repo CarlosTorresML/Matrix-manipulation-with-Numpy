@@ -14,8 +14,7 @@ This repository contains a simple exercise using NumPy to practice matrix creati
 ## Files Included
 
 - `matrix_manipulation_with_Numpy.ipynb` → Jupyter notebook with code and explanations.
-- `matrix_with_negatives.csv` → Array with `-1` replacing odd values.
-- `matrix_sum_filtered.csv` → Array filtered by row sum > 300.
+  
 
 ## Skills 
 
